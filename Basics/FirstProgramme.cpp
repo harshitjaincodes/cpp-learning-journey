@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello PW";
+    cout<<"Hello World";
     cout<<endl; //Giving Enter 
-    cout<<"Hello CW";
+    cout<<"Hello ";
 }
