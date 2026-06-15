@@ -12,6 +12,6 @@ int main(){
         cout<<"Palindrome";
     }
     else{
-        cout<<"Not a Palindrpme";
+        cout<<"Not a Palindrome";
     }
 }
